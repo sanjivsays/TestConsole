@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nepal\\source\\repos\\TestConsole\\TestConsole\\TestConsole.csproj",
+      "projectUniqueName": "H:\\Consilio_Pratice\\TestConsole\\TestConsole\\TestConsole.csproj",
       "projectName": "TestConsole",
-      "projectPath": "C:\\Users\\nepal\\source\\repos\\TestConsole\\TestConsole\\TestConsole.csproj",
+      "projectPath": "H:\\Consilio_Pratice\\TestConsole\\TestConsole\\TestConsole.csproj",
       "packagesPath": "C:\\Users\\nepal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nepal\\source\\repos\\TestConsole\\TestConsole\\obj\\",
+      "outputPath": "H:\\Consilio_Pratice\\TestConsole\\TestConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
